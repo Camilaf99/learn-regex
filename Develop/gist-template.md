@@ -4,7 +4,7 @@ Regular expressions or "Regex" are patterns used to match character combinations
 
 ## Summary
 
-A Regex pattern is made up of simple characters, for instance [a-z], /abc/, or a sum of simple and special characters, like this code: ^GET /[a-zA-Z0-9\.-_/\+%]* [1-5][0-9]{2,2} . 
+A Regex pattern is made up of simple characters, for instance [a-z], /abc/, or a sum of simple and special characters, like this code: ^GET /[a-zA-Z0-9\.-_/\+%]* [1-5][0-9]{2,2} this means GET /stylesheets/style.css 200 9.089 ms - 803. 
 
 ## Table of Contents
 
